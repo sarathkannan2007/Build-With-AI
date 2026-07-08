@@ -1,0 +1,6 @@
+{
+  "name": "JanConnect",
+  "description": "An AI-powered Smart Citizen Grievance Redressal and Priority Platform for modern, transparent city management.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
